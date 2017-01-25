@@ -10,5 +10,3 @@ print(17, int(17))                # int even works on integers
 
 print(float("123.45"))
 print(type(float("123.45")))
-
-print("ssss")
