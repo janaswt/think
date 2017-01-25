@@ -7,7 +7,13 @@ print("Dupa")
 print("2345", int("2345"))        # parse a string to produce an int
 print(17, int(17))                # int even works on integers
 print("l")
+def sss(tee):
+    print(tee)
+
+
 print("ssss")
+
+
 
 print(float("123.45"))
 print(type(float("123.45")))
