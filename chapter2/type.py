@@ -20,3 +20,6 @@ several lines
 of the text.""")
 print(42000)
 print(42,000)
+
+print("Dupa")
+git commit
