@@ -8,4 +8,8 @@ def remove_all(substr, the_string):
         the_string = the_string[:index] + the_string[index + len(substr):]
     return the_string
 print(remove_all("iss", "Mississipi"))
-        
+
+def remove_all2(substr, the_str):
+    new_string = the_str.replace(substr, "")
+    return new_string
+print(remove_all2("iss", "Mississipi"))        
