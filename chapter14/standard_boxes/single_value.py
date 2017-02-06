@@ -14,7 +14,7 @@ if answer is not None:
     print("Your age is ", answer)
 else:
     print("You don't have an age?")
-    
+
 answer = simpledialog.askfloat("Input", "What is your salary", parent=application_window, minvalue=0, maxvalue=100000.0)
 if answer is not None:
     print("Your salary is ", answer)
