@@ -1,4 +1,3 @@
-from concurrent.futures import process
 def apply_rules(lhch):
     rhstr = ""
     if lhch == "A":
