@@ -24,3 +24,4 @@ for word in keys:
     out.write("\n")
     
 print("The word 'alice' apears " + str(count['alice']) + " times in the book" )
+print("s".isalpha())
