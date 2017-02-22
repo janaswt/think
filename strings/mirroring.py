@@ -7,4 +7,5 @@ def mirror(a_string):
     return a_string + reverse(a_string)
 
 if __name__ == "__main__":
-    print(mirror("dupa"))
+    print(mirror("dupa jaKAS"))
+    print(reverse("dupa jakas tu była"))
